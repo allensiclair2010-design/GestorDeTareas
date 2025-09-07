@@ -1,0 +1,17 @@
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorTareasBlue.Tarea.resources
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorDeTareas.csproj.GenerateResource.cache
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorDeTareas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorDeTareas.AssemblyInfoInputs.cache
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorDeTareas.AssemblyInfo.cs
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorDeTareas.csproj.CoreCompileInputs.cache
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\bin\Debug\net9.0-windows\GestorDeTareas.exe
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\bin\Debug\net9.0-windows\GestorDeTareas.deps.json
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\bin\Debug\net9.0-windows\GestorDeTareas.runtimeconfig.json
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\bin\Debug\net9.0-windows\GestorDeTareas.dll
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\bin\Debug\net9.0-windows\GestorDeTareas.pdb
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorDeTareas.dll
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\refint\GestorDeTareas.dll
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorDeTareas.pdb
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorDeTareas.genruntimeconfig.cache
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\ref\GestorDeTareas.dll
+E:\Codigos de Visual\GestorDeTareas\GestorDeTareas\obj\Debug\net9.0-windows\GestorTareasBlue.MainForm.resources
